@@ -1,0 +1,7 @@
+C:\Users\lelli\Desktop\SAE Projects\B1 Aufgaben\B1.6 - Trefferwurf\B1.6 - Trefferwurf\bin\Debug\B1.6 - Trefferwurf.exe.config
+C:\Users\lelli\Desktop\SAE Projects\B1 Aufgaben\B1.6 - Trefferwurf\B1.6 - Trefferwurf\bin\Debug\B1.6 - Trefferwurf.exe
+C:\Users\lelli\Desktop\SAE Projects\B1 Aufgaben\B1.6 - Trefferwurf\B1.6 - Trefferwurf\bin\Debug\B1.6 - Trefferwurf.pdb
+C:\Users\lelli\Desktop\SAE Projects\B1 Aufgaben\B1.6 - Trefferwurf\B1.6 - Trefferwurf\obj\Debug\B1.6 - Trefferwurf.csproj.AssemblyReference.cache
+C:\Users\lelli\Desktop\SAE Projects\B1 Aufgaben\B1.6 - Trefferwurf\B1.6 - Trefferwurf\obj\Debug\B1.6 - Trefferwurf.csproj.CoreCompileInputs.cache
+C:\Users\lelli\Desktop\SAE Projects\B1 Aufgaben\B1.6 - Trefferwurf\B1.6 - Trefferwurf\obj\Debug\B1.6 - Trefferwurf.exe
+C:\Users\lelli\Desktop\SAE Projects\B1 Aufgaben\B1.6 - Trefferwurf\B1.6 - Trefferwurf\obj\Debug\B1.6 - Trefferwurf.pdb
